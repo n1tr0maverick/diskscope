@@ -1,4 +1,4 @@
-# MacDirStat 📊
+# DiskScope 📊
 
 A high-performance, dark-themed, and glassmorphic disk usage statistics viewer and cleanup tool for macOS, inspired by WinDirStat. 
 

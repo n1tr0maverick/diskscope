@@ -315,7 +315,7 @@ await setupFrontend();
 
 app.listen(PORT, () => {
   console.log(`=========================================`);
-  console.log(`  MacDirStat is running on: http://localhost:${PORT}`);
+  console.log(`  DiskScope is running on: http://localhost:${PORT}`);
   console.log(`  Mode: ${process.env.NODE_ENV === 'production' ? 'Production' : 'Development'}`);
   console.log(`=========================================`);
 });

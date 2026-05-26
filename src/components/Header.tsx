@@ -55,7 +55,7 @@ export const Header: React.FC<HeaderProps> = ({
             gap: '8px',
           }}>
             <span>📊</span>
-            <span>MacDirStat</span>
+            <span>DiskScope</span>
           </div>
           <span style={{
             background: 'rgba(139, 92, 246, 0.1)',
